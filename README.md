@@ -1,6 +1,6 @@
 <p align="center">
   <img width="200" src="https://pbs.twimg.com/media/FH4MMKdVIAAcWsl?format=jpg&name=medium" alt="Material Bread logo">
-  <h1 align="center">Hello 👋</h1>
+  <h1 align="center">Hello 👋
 
 - 🌱 I’m currently learning JavaScript for video design
 - 👯 I’m looking to collaborate on content creation & branding
